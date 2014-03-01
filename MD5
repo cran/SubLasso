@@ -1,0 +1,12 @@
+b4eacbb9ad5593e70b9348fa6bca6229 *DESCRIPTION
+5534f9ab8913baa0f48d633d677eedb9 *NAMESPACE
+083fd9ee543551e2441a494a6060e408 *R/SubLasso.R
+1c09003e9a0ffda8ee83b24cd3e4a8c1 *R/predict.sublasso.R
+39c9cea02c7015699f80871475e4f1e3 *data/Colon.rda
+35ae658e59f252402bf4ffb198b32154 *data/Golub_Merge.rda
+bb5a7451046408b6fb104312033e637b *data/datalist
+b8c5133f282f5514d75be047320f55c2 *man/Colon.Rd
+14eff560fe13530e39055d34d5a8261e *man/Golub_Merge.Rd
+4041f7f1d450a72980c66eea4c94908f *man/SubLasso-package.Rd
+a82974d1090d9d1f62787648f3841660 *man/SubLasso.Rd
+f332f12a5678d14140c23bb8e93f15d1 *man/predict.sublasso.Rd

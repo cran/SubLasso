@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(glmnet)
+import(gplots)
+import(psych)
